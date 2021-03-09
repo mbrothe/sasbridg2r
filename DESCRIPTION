@@ -1,0 +1,15 @@
+Package: sasbridg2r
+Title: Functions That Bridge R and SAS
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Mark",
+           family = "Royhe",
+           role = c("aut", "cre"),
+           email = "mbrothe71@gmail.com.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Assists users coming to R from SAS and teams who use R and SAS.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
